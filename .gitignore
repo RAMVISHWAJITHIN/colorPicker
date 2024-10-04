@@ -1,0 +1,12 @@
+
+node_modules
+node_modules
+package.json
+postcss.config.js
+.DS_Store  
+.cache    
+dist 
+package-lock.json
+tailwind.config.js
+index.css  
+index.html
